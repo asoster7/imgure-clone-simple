@@ -1,0 +1,29 @@
+#Organize File Structure and Root (p.55) 
+
+#Initialize workspace 
+    
+    package.json (npm init)
+    npm install "packages"
+
+    git init
+    git remote
+
+#Setup application entry point (server.js) 
+
+    Created server.js
+        Assigned app to express framework. 
+        Setup localhost server (node). 
+        test location (localhost:3300) and message. 
+
+
+#Booting up the application (p.58) 
+
+    $ node server.js
+    server up: http://localhost:3300
+ 
+    //worked great! Had to go back and change _dirname to "__dirname" 
+
+
+#Understanding Middleware (p.58) 
+
+ 
